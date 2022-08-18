@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: aclruntime
+Version: 0.0.1
+Summary: A test project using pybind11 and aclruntime
+Home-page: https://xxxxx
+Author: lcm
+Author-email: aclruntime@gmail.com
+Requires-Python: >=3.6

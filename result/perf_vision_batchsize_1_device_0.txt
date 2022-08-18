@@ -1,0 +1,6 @@
+[e2e] throughputRate: 364.618, latency: 27425.9
+[data read] throughputRate: 2086.89, moduleLatency: 0.479182
+[preprocess] throughputRate: 1987.7, moduleLatency: 0.503095
+[inference] throughputRate: 379.5, Interface throughputRate: 403.721, moduleLatency: 2.60903
+[postprocess] throughputRate: 379.534, moduleLatency: 2.63481
+
